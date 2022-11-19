@@ -1,10 +1,9 @@
 using System;
 using gateway.Models;
 using Microsoft.AspNetCore.Mvc;
-using System.Text.Json;
-using System.Text.Json.Serialization;
 using Newtonsoft.Json;
 using System.Net.Http.Headers;
+using Microsoft.AspNetCore.Authorization;
 
 namespace gateway.Controllers;
 
