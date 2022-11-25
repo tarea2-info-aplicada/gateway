@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\gateway.csproj": {}
+    "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\gateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\gateway.csproj": {
+    "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\gateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\gateway.csproj",
+        "projectUniqueName": "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\gateway.csproj",
         "projectName": "gateway",
-        "projectPath": "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\gateway.csproj",
+        "projectPath": "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\gateway.csproj",
         "packagesPath": "C:\\Users\\Steve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\obj\\",
+        "outputPath": "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Steve\\AppData\\Roaming\\NuGet\\NuGet.Config",

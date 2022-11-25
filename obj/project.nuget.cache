@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HJ1PeXV4KTzGX0vBxaKR5dl88fOjJcViksqNXUALPbyB6AevlGD71U6knm74iRS964jJ8wIRfBOjO6PWevcCsA==",
+  "dgSpecHash": "kGW+qpbLy7E/6yML5swLcatzFJpLw3XCh43cTy8IWYhBD8Ku8rYGyas7+UM1KA5RSeo1pOXy+dN0gsaoPqlKkg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Steve\\Documents\\tarea2-analisis\\gateway\\gateway.csproj",
+  "projectFilePath": "C:\\Users\\Steve\\Documents\\tarea2-ML\\gateway_api_net\\gateway.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Steve\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.0\\microsoft.aspnetcore.openapi.7.0.0.nupkg.sha512",
     "C:\\Users\\Steve\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
